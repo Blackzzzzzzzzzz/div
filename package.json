@@ -1,0 +1,19 @@
+{
+  "name": "jegue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "quick.db": "^7.0.0-b22",
+    "weather-js": "^2.0.0"
+  }
+}
